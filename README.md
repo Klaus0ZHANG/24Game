@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Use My 24Game
 
-You can use the [editor on GitHub](https://github.com/LeonardoLu/24Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a 24 point game, which is implemented on the Apple Watch based on the traditional 24 point game.
+The rules of the game are the same as the traditional 24-point game. Addition, subtraction, multiplication and division and parentheses are used to make the four numbers to obtain 24 to win.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Operational aspects:
+1. You can enter specific parentheses by swiping left or right while holding down the "braces" button.
+2. Clicking the "Parentheses" button directly will enter the left or right parenthesis according to the existing calculation.
+3. On the right side of the calculation display is the "Clear Back" button. Click to clear the previous operation.
+4. Long press the "Clear Back" button to restart a new game.
+5. When the formula is empty, click the "Clear Previous" button, which means that the player feels that "there is no solution to this problem". At this time, the app will check and get the result.
 
-### Markdown
+Difficulty:
+1. The random range of the four numbers can be 1-10 or 1-13 to increase the amount of calculation and the number of questions.
+2. You can shuffle the order of numbers and operators to increase the amount of observation you need.
+3. You can make your app provide "no solution" situations to increase the variety of topics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hope such a simple app can dispel the boring minutes in your life, or improve your attention and thinking in some key minutes.
 
-```markdown
-Syntax highlighted code block
+### Connect Me
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeonardoLu/24Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions, please send email to 958050548@qq.com
